@@ -11,5 +11,5 @@ Mahasiswa Teknik Mesin | Politeknik Sukabumi
 ### 2. Sertifikasi Spesialisasi Coursera
 - **Digitalisation in Aeronautics and Space** (Munich Aerospace / Coursera)(https://coursera.org/verify/specialization/SB8XBPC58RAQ).
 - **Health, Safety, and Environmental (HSE) Engineering** (Khalifa University / Coursera).(https://coursera.org/verify/specialization/98FYHV9XFC0).
-- **Petroleum Engineering with AI Applications** (L&T EduTech / Coursera).
-- **Fundamentals of Flight Mechanics** (ISAE-SUPAERO / Coursera).
+- **Digitalisation in Aeronautics and Space** (Munich Aerospace / Coursera) -(https://coursera.org/verify/specialization/SB8XBPC58RAQ)
+- **Health, Safety, and Environmental (HSE) Engineering** (Khalifa University / Coursera) - (https://coursera.org/verify/specialization/98FYHV9XFC0)
